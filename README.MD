@@ -1,4 +1,4 @@
-# Pong
+# LOVEPong
 The classic pong game made with love2d and lua
 
 ## How To Run
